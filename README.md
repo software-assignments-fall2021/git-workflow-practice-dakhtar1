@@ -2,3 +2,5 @@
 ## [Artificial Intelligence](https://builtin.com/artificial-intelligence) <h2>
 
 ### Artificial intelligence is a buzzword utilized by essentially everyone nowadays. But what exactly is it? This article dives deep into the history of AI, starting with arguably its founder, Alan Turing, who, after breaking Enigma, asked the question, "Can computers think?" Following this of course, the entire tech industry was revolutionized by this idea, and it remains a topic of deep interest today. The article talks about four different types of artificial intelligence: reactive machines, limited memory, theory of mind, and self-awareness. The article then subsequently goes over some of the prominent examples of AI today, such as Siri, Alexa, self-driving cars, conversational robots, spam filters, Netflix recommendations, etc. <h2>
+
+### Christian Kovacs Comment: I think that the application of IBM's Chess playing AI DeepBlue was able to defeat the Grandmaster Gary Kasparov in the 1990's. <h2>
