@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+#Hello! Welcome to my page.<h1>
+[Click to see what I have!](https://stackoverflow.com/)
+
+Why do I find this site interesting? Well, I find it interesting because its is truly remarkablw how many times I have accessed this website during my computer science degree. It is quite interesting how many people know about this website, and perhaps even more interesting that this website is the holy grail for any computer science student.
