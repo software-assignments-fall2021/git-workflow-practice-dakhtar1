@@ -1,4 +1,4 @@
 # Hello! Welcome to my page.<h1>
-## [Click to see what I have!](https://stackoverflow.com/) <h2>
+## [Artificial Intelligence](https://builtin.com/artificial-intelligence) <h2>
 
-### Why do I find this site interesting? Well, I find it interesting because its is truly remarkable how many times I have accessed this website during my computer science degree. It is quite interesting how many people know about this website, and perhaps even more interesting that this website is the holy grail for any computer science student. <h3>
+### Artificial intelligence is a buzzword utilized by essentially everyone nowadays. But what exactly is it? This article dives deep into the history of AI, starting with arguably its founder, Alan Turing, who, after breaking Enigma, asked the question, "Can computers think?" Following this of course, the entire tech industry was revolutionized by this idea, and it remains a topic of deep interest today. The article talks about four different types of artificial intelligence: reactive machines, limited memory, theory of mind, and self-awareness. The article then subsequently goes over some of the prominent examples of AI today, such as Siri, Alexa, self-driving cars, conversational robots, spam filters, Netflix recommendations, etc. <h2>
