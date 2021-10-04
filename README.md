@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Hello! Welcome to my page.<h1>
+## [Artificial Intelligence](https://builtin.com/artificial-intelligence) <h2>
+
+### Artificial intelligence is a buzzword utilized by essentially everyone nowadays. But what exactly is it? This article dives deep into the history of AI, starting with arguably its founder, Alan Turing, who, after breaking Enigma, asked the question, "Can computers think?" Following this of course, the entire tech industry was revolutionized by this idea, and it remains a topic of deep interest today. The article talks about four different types of artificial intelligence: reactive machines, limited memory, theory of mind, and self-awareness. The article then subsequently goes over some of the prominent examples of AI today, such as Siri, Alexa, self-driving cars, conversational robots, spam filters, Netflix recommendations, etc. <h2>
